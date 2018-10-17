@@ -1,0 +1,2 @@
+# HistogramEqualization
+Histogram equalizer
